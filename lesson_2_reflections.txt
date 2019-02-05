@@ -3,3 +3,6 @@ A git folder is created for version control. We need it for maintaining records.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area decides what we nwant to push now onto aur version control. It provides us as an option to not combine all changes into a single commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+By comparing gitt with current repository.
