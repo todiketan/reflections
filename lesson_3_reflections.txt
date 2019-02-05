@@ -4,3 +4,8 @@ Branches would help to work on different aspects of the code, and combine them a
 How do the diagrams help you visualize the branch structure?
 Diagrams help us keep track of the various branches that are currently in development and the different positions at which the branching started.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The merging of 2 branches helps combine the contribution of 2 people into a single file, while keeping a complete track of the changes made by them. and it helps in properly understanding the changes.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Gits manula merge prevents code from becoming messy and stops it from not compiling, maual merger provides us with an opportunity to decide, what we want to keep and remove.
